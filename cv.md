@@ -36,9 +36,9 @@ For a large part of my professional life, I have worked in the HR department. At
 [Academic International Institute](http://ami-map.ru) - Management
 
 **Additional education**  
-[Geekbrains](https://gb.ru) - Web developer
-[RS School](https://rs.school/) - [sertificate](https://app.rs.school/certificate/wkt7znyu)
-[Moscow Institute of Foreign Languages](http://www.mosinyaz.com) - B1 Business Preliminary
+* [Geekbrains](https://gb.ru) - Web developer
+* [RS School](https://rs.school/) - [sertificate](https://app.rs.school/certificate/wkt7znyu)
+* [Moscow Institute of Foreign Languages](http://www.mosinyaz.com) - B1 Business Preliminary
 
 ## Languages
 * **Russian** (native)
